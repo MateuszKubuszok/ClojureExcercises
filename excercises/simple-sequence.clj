@@ -1,4 +1,4 @@
-(ns excercises)
+(ns excercises.simple-sequence)
 
 (defn
   ^{:doc  "Exponent for natural powers"

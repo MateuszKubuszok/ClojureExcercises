@@ -1,4 +1,4 @@
-(ns excercises)
+(ns excercises.synchronization)
 
 (defn initiate-model [] '()) ; initiate model as empty list
 

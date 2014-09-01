@@ -1,4 +1,4 @@
-(ns excercises)
+(ns excercises.lazy-seq)
 
 ; integer/natural sequences
 (defn integers-from "Integers from i up" [i]
